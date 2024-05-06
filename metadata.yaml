@@ -1,0 +1,45 @@
+_repo: Of-no-account_73416
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hardy, Paul
+    alias: Hardy, David Paul Frederick
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '9890'
+    url: http://www.gutenberg.org/2009/agents/9890
+creator:
+  author:
+    agent_name: Lamb, Ruth
+    aliases:
+    - Buck, Ruth
+    - Lamb, Mrs. (Ruth)
+    - Lamb, Ruth Buck
+    birthdate: 1829
+    deathdate: 1916
+    gutenberg_agent_id: '55945'
+    url: http://www.gutenberg.org/2009/agents/55945
+description: ''
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73416'
+language: en
+pgterms:marc905: 20240406105816lamb
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Spouses -- Fiction'
+- !lcsh 'Foundry workers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Of no account
+url: http://www.gutenberg.org/ebooks/73416

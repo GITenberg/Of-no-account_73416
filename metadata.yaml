@@ -8,6 +8,9 @@ contributor:
     deathdate: 1942
     gutenberg_agent_id: '9890'
     url: http://www.gutenberg.org/2009/agents/9890
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lamb, Ruth
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '55945'
     url: http://www.gutenberg.org/2009/agents/55945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73416#Of-no-account
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
